@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>web3summit-2019</title>
+  <subtitle></subtitle>
+  <id>https://web3summit-2019.curation.space</id>
+  <link href="https://web3summit-2019.curation.space"/>
+  <link href="https://web3summit-2019.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name></name>
+  </author>
+</feed>

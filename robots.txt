@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://web3summit-2019.curation.space/sitemap.xml
