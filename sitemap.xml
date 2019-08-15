@@ -19,6 +19,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://web3summit-2019.curation.space/2019/08/15/the-web3-summit-google-calendar.html</loc>
+    <lastmod>2019-08-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://web3summit-2019.curation.space/contact.html</loc>
     <lastmod>2019-08-15</lastmod>
     <priority>1.0</priority>
@@ -70,6 +76,24 @@
     <loc>https://web3summit-2019.curation.space/about.html</loc>
     <lastmod>2019-08-15</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://web3summit-2019.curation.space/2019.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://web3summit-2019.curation.space/2019/08.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://web3summit-2019.curation.space/2019/08/15.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
